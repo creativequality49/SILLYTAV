@@ -1,12 +1,19 @@
-# Python standard ignores
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.egg-info/
-*.eggs/
-*.venv/
-*.env
+# Python
 
-# Project-specific ignores
-# Add any project-specific files or directories to ignore
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Byte-compiled files
+__pycache__/
+
+# macOS specific files
+.DS_Store
+
+# Log files
+logs/
+
+# Output directories
+output/
