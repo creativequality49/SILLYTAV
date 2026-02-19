@@ -1,0 +1,12 @@
+# Python standard ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.eggs/
+*.venv/
+*.env
+
+# Project-specific ignores
+# Add any project-specific files or directories to ignore
